@@ -192,6 +192,9 @@ Public Key
   npub: npub1...
 ```
 
+<img width="679" height="339" alt="image" src="https://github.com/user-attachments/assets/ebe14b51-44bb-4d42-abb0-d34eae85b73d" />
+
+
 **Jetzt zählt jede Sekunde:** Notiere dir sofort — bevor du irgendetwas
 anderes tust — die beiden Zeilen `nsec:` und `npub:` an deinem sicheren Ort
 (Papier im Safe oder Passwort-Manager). Die `hex:`-Werte sind nur eine
