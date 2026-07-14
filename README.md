@@ -243,6 +243,15 @@ Wallet-Erweiterung zusammenarbeitet.
   dann ein komplett neues, ebenso gültiges Schlüsselpaar. Verwende nur das
   Schlüsselpaar, das du dir tatsächlich notiert hast.
 
+## Ist dieser Code sicher?
+
+Wenn du willst, lass ChatGPT oder eine andere KI den Code für die Schlüsselgenerierung vor Nutung prüfen.
+Kopiere dazu den Inhalt der Datei `nostrkeygen.py` in einen KI-Chat und bitte um einen Sicherheitscheck.
+
+<img width="604" height="237" alt="image" src="https://github.com/user-attachments/assets/4621e354-25c7-47c5-a398-6e0787a628b3" />
+
+Das Ergebnis wird recht technisch sein und nicht einfach "Ja, alles sicher lauten". Irgendetwas findet KI immer zum Kritisieren. Das bedeutet, du musst auch hier selbst entscheiden, wieviel Risiko du noch eingehen willst. Wie wichtig ist die Nostr Identität für dein Leben wirklich, wirklich? Lohnt sich die extra Meile, die die KI dir aufzeigt? Oder bist du mit der Sicherheit zufrieden, die ansonsten überprüfter Code, der ohne Internetverbindung läuft, bietet?
+
 ## Für technisch Interessierte (optional)
 
 Wer möchte, kann die erzeugten Schlüssel zusätzlich mit `test_nostrkeygen.py`
